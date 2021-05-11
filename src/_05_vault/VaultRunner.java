@@ -16,7 +16,8 @@ if (x == true) {
 if (x == false) {
 	JOptionPane.showMessageDialog(null, "WRONG!");	
 }
-
+JamesBond JB = new JamesBond ();
+JB.findCode(V);
 }
 }
 
